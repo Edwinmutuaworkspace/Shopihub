@@ -1,0 +1,110 @@
+[
+  {
+    "id": "p1",
+    "title": "Chrono Heritage Automatic",
+    "image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=800&q=80",
+    "price": 2450,
+    "category": "watches",
+    "rating": 4.9,
+    "affiliateUrl": "https://www.amazon.com/dp/B0CHRONO1"
+  },
+  {
+    "id": "p2",
+    "title": "Silk Evening Blazer",
+    "image": "https://images.unsplash.com/photo-1592878904946-b3cd8ae243d0?auto=format&fit=crop&w=800&q=80",
+    "price": 890,
+    "category": "fashion",
+    "rating": 4.7,
+    "affiliateUrl": "https://www.amazon.com/dp/B0BLAZER2"
+  },
+  {
+    "id": "p3",
+    "title": "Diamond Halo Pendant",
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=80",
+    "price": 3200,
+    "category": "jewelry",
+    "rating": 5.0,
+    "affiliateUrl": "https://www.amazon.com/dp/B0PENDANT3"
+  },
+  {
+    "id": "p4",
+    "title": "Velvet Lounge Armchair",
+    "image": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?auto=format&fit=crop&w=800&q=80",
+    "price": 1750,
+    "category": "home",
+    "rating": 4.8,
+    "affiliateUrl": "https://www.amazon.com/dp/B0CHAIR44"
+  },
+  {
+    "id": "p5",
+    "title": "Noir Absolu Eau de Parfum",
+    "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=800&q=80",
+    "price": 185,
+    "category": "beauty",
+    "rating": 4.6,
+    "affiliateUrl": "https://www.amazon.com/dp/B0PARFUM5"
+  },
+  {
+    "id": "p6",
+    "title": "Sonic One Wireless Headphones",
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=800&q=80",
+    "price": 449,
+    "category": "tech",
+    "rating": 4.8,
+    "affiliateUrl": "https://www.amazon.com/dp/B0HEADPH6"
+  },
+  {
+    "id": "p7",
+    "title": "Cashmere Crew Neck",
+    "image": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=800&q=80",
+    "price": 395,
+    "category": "fashion",
+    "rating": 4.7,
+    "affiliateUrl": "https://www.amazon.com/dp/B0CASHMER7"
+  },
+  {
+    "id": "p8",
+    "title": "Artisan Ceramic Vase Set",
+    "image": "https://images.unsplash.com/photo-1612196808214-b7e239e5bbae?auto=format&fit=crop&w=800&q=80",
+    "price": 240,
+    "category": "home",
+    "rating": 4.5,
+    "affiliateUrl": "https://www.amazon.com/dp/B0VASESET8"
+  },
+  {
+    "id": "p9",
+    "title": "Leather Weekender Bag",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80",
+    "price": 650,
+    "category": "fashion",
+    "rating": 4.9,
+    "affiliateUrl": "https://www.amazon.com/dp/B0BAGTRAV9"
+  },
+  {
+    "id": "p10",
+    "title": "Hydrating Renewal Serum",
+    "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80",
+    "price": 125,
+    "category": "beauty",
+    "rating": 4.8,
+    "affiliateUrl": "https://www.amazon.com/dp/B0SERUM10"
+  },
+  {
+    "id": "p11",
+    "title": "Minimalist Desk Lamp",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=800&q=80",
+    "price": 320,
+    "category": "home",
+    "rating": 4.6,
+    "affiliateUrl": "https://www.amazon.com/dp/B0LAMPDESK11"
+  },
+  {
+    "id": "p12",
+    "title": "Smart Fitness Watch Pro",
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=800&q=80",
+    "price": 329,
+    "category": "tech",
+    "rating": 4.5,
+    "affiliateUrl": "https://www.amazon.com/dp/B0WATCHFIT12"
+  }
+]
